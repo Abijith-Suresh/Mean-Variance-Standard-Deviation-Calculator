@@ -1,2 +1,18 @@
-# Mean-Variance-Standard-Deviation-Calculator
-This repository contains a Python function calculate() in the mean_var_std.py file. The function leverages Numpy to compute and output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
+# Mean-Variance-Standard Deviation Calculator
+
+This project is part of my FreeCodeCamp Data Analysis with Python Certification. The Mean-Variance-Standard Deviation Calculator calculates and displays statistical metrics for a given set of data.
+
+## Features
+- Calculation of mean, variance, and standard deviation
+- Python pandas library usage
+
+## Technologies Used
+- Python
+- pandas
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+Happy coding!
